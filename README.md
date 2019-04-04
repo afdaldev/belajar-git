@@ -14,4 +14,4 @@
 	'git commit -m "Pesan/keterangan commit"'
 	
 - Mendaftarkan Remote repo
-	'
+	'git remote add nama-remote url-remote' 'git remote add github '
